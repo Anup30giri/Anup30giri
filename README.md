@@ -1,5 +1,5 @@
 #### Github Stats
-![Anup's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=anup30girir&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
+![Anup's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=anup30giri&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
 
 #### Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
