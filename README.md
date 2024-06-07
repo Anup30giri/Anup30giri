@@ -1,5 +1,5 @@
 #### Github Stats
-![Anup's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=anup30giri&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
+![Anup's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=anup30giri&stroke=ffc857&background=0E1217&ring=8ac926&fire=FF6600&currStreakNum=ffffff&currStreakLabel=daf7dc&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
 
 #### Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,5 +18,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+### Top Languages
 
-![Anup's Profile views](https://komarev.com/ghpvc/?username=anup30giri&color=lightgrey)
+<p>
+<a href = "https://github.com/Anup30giri">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup30giri&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
+
+
+![Anup's Profile views](https://komarev.com/ghpvc/?username=anup30giri&color=FF6600)
